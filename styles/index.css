@@ -368,7 +368,7 @@ summary {
 
 summary::after{
     content: '';
-    background-image: url(./images/faq\ arrowdown.png);
+    background-image: url(../images/faq\ arrowdown.png);
     float: right;
     background-size: 30px;
     display: inline-block;
